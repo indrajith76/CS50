@@ -32,6 +32,6 @@ int main(void)
     for (int i = 0, n = strlen(name); i <n; i++)
     {
         printf("%c", toupper(name[i]));
-    }
+    } 
     printf("\n");
 }
